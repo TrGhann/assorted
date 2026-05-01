@@ -3,7 +3,7 @@ local PlaceId = game.PlaceId
 if PlaceId == 109983668079237 then
     loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjUyOTk0NDE0LTA2MTUtNGVjYS04YjdjLWY2NzA3ZGY3ZjU1MCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamF6emVkZC9TY3JpcHRzL3JlZnMvaGVhZHMvbWFpbi9kYWQifX0"))()
 elseif PlaceId == 142823291 then
-    loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjUyOTk0NDE0LTA2MTUtNGVjYS04YjdjLWY2NzA3ZGY3ZjU1MCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamF6emVkZC9TY3JpcHRzL3JlZnMvaGVhZHMvbWFpbi9kYWQifX0"))()
+    loadstring(game:HttpGet("https://pastefy.app/VQ8O3vy3/raw"))()
 elseif PlaceId == 920587237 then
     loadstring(game:HttpGet("https://pastefy.app/AvUH3j8O/raw"))()
 else
