@@ -3,9 +3,9 @@ local PlaceId = game.PlaceId
 if PlaceId == 109983668079237 then
     loadstring(game:HttpGet("https://cdn.sourceb.in/bins/ODMB8Axbi5/0"))()
 elseif PlaceId == 142823291 then
-    loadstring(game:HttpGet("https://pastefy.app/XMPx5Bre/raw"))()
+    loadstring(game:HttpGet("https://pastefy.app/CGgle6CL/raw"))()
 elseif PlaceId == 920587237 then
-    loadstring(game:HttpGet("https://pastefy.app/Uqd0OY6n/raw"))()
+    loadstring(game:HttpGet("https://pastefy.app/iyjduweC/raw"))()
 else
     print("Unknown game: " .. tostring(PlaceId))
 end
