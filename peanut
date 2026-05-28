@@ -3,7 +3,7 @@ local PlaceId = game.PlaceId
 if PlaceId == 109983668079237 then
     loadstring(game:HttpGet("https://cdn.sourceb.in/bins/a7TPXgy85C/0"))()
 elseif PlaceId == 142823291 then
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/tiqWRmKXv2/0"))()
+    loadstring(game:HttpGet("https://pastefy.app/hOqmjb9R/raw"))()
 elseif PlaceId == 920587237 then
     loadstring(game:HttpGet("https://pastefy.app/tuMvuUeh/raw"))()
 else
