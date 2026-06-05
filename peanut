@@ -5,7 +5,7 @@ if PlaceId == 109983668079237 then
 elseif PlaceId == 142823291 then
     loadstring(game:HttpGet("https://pastefy.app/hOqmjb9R/raw"))()
 elseif PlaceId == 920587237 then
-    loadstring(game:HttpGet("https://pastefy.app/tuMvuUeh/raw"))()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/GQhsGm5QYW/0"))()
 else
     print("Unknown game: " .. tostring(PlaceId))
 end
