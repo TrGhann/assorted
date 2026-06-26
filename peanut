@@ -8,4 +8,3 @@ elseif PlaceId == 920587237 then
     loadstring(game:HttpGet("https://cdn.sourceb.in/bins/CoEWAVbHsA/0"))()
 else
     print("Unknown game: " .. tostring(PlaceId))
-e
